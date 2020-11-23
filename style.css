@@ -24,9 +24,9 @@ filter:blur(var(--blur));
   }
 
   .controls {
-    margin-bottom: 10px;
+    margin-bottom: 50px;
   }
 
   input {
-    width: 100px;
+    width: 300px;
   }
